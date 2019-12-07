@@ -1,0 +1,13 @@
+le tetris marche et tout ce qui a été demander a été traiter:
+Tetris avec interface graphique delai et score et rotation
+le jeu se met en pause quand l'utilisateur perd
+button new permet de recommancer la partie on reinsitialisant tout les variables
+button quit permet de quitter
+button left right down permet de deplacer la piece et button rotate pour la rotation
+la rotation marche et bloque la rotation si la largeur depasse le bourdure lors du rotation
+Deux label de score et de delai
+A chaque fois qu'une piece est mise le score s'incremente et le delai revient vers la valeur max
+les touches fleches bas et gauche droit permet de deplacer les pieces et espace permet de faire la rotation et echap permet de quitter
+la piece descend toute seul si le delai est arrivé a 0 secondes
+
+
